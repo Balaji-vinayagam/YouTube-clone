@@ -29,6 +29,7 @@ body{
   .header_left{
     display: flex ;
     align-items: center;
+    left:50px;  
   }
   .header_left img{
     height: 50px;
